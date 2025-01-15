@@ -1,14 +1,14 @@
 ## Hi there 👋
 
-I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
+I'm using C++, C, and JavaScript to make games and program robots to "Dance"
+I also make Minecraft Mods and Plugins. 🕺🏽
 
 **I love working with**
-Nobody....I am all alome
+Nobody....I am all alone
 
 ### 🔭 I’m working on
 
-- Projects for freelance clients.
-- Growing [Upbeat Code](https://www.upbeatcode.com) to 100k/month visitors.
+Nothing 
 
 ### 🌱 I’m learning
 

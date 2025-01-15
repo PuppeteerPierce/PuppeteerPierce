@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**PuppeteerPierce/PuppeteerPierce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
 
-Here are some ideas to get you started:
+**I love working with**
+Nobody....I am all alome
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 I’m working on
+
+- Projects for freelance clients.
+- Growing [Upbeat Code](https://www.upbeatcode.com) to 100k/month visitors.
+
+### 🌱 I’m learning
+
+C++
+
+### 🤔 I’m looking for help with
+
+- Learning C++
+
+### 📫 How to reach me
+
+Just Text me.
+
+### ⚡ Fun fact
+
+I think LeBron is better than Jordan.
